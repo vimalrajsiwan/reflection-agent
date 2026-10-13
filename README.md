@@ -4,7 +4,7 @@
 
 ## To Add Packages
 
-    uv add python-dotenv black isort langchain langchain-openai langgraph
+    uv add python-dotenv black isort langchain langchain-openai langgraph langchain-tavily
 
 ## To Apply venv
 
